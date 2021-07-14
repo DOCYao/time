@@ -10,7 +10,8 @@ CONFIG += c++11
 
 SOURCES += \
     main.cpp \
-    dialog.cpp
+    dialog.cpp \
+    timeDiaglog.cpp
 
 HEADERS += \
     dialog.h \
